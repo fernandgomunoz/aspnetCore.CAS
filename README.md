@@ -5,10 +5,8 @@ A [CAS 2.0](https://apereo.github.io/cas/5.2.x/protocol/CAS-Protocol-V2-Specific
 based on Microsoft's providers for [OAuth](https://github.com/aspnet/Security/tree/dev/src/Microsoft.AspNetCore.Authentication.OAuth) and [Twitter](https://github.com/aspnet/Security/tree/dev/src/Microsoft.AspNetCore.Authentication.Twitter).
 
 ## Usage
-
-1. Install the NuGet package
-
-    `PM> Install-Package AspNetCore.Security.CAS`
+this is a fork from this repo https://github.com/IUCrimson/AspNet.Security.CAS. I try to do a pull request to add a new paramether (IWA).But no body response me. So I create this repo, to keep the proyect alive.
+If you are the original owner and you dont like it, tell me and I destroy this repo.
 
 1. Open `Startup.cs`
 
